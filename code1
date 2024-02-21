@@ -1,6 +1,4 @@
 
-
-
 sudo apt install np
 
 npm install -g yarn 
