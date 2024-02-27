@@ -49,7 +49,6 @@ yarn install
 node deposit.js [Solana Address] 0x7C9e161ebe55000a3220F972058Fb83273653a6e 1500000 100 [Ethereum Private Key] https://rpc2.sepolia.org 
 
 
-
 Example :
 
 node deposit.js CgHRY3xHtwgvciGsAzBXSugiCSEbkqEuG5UWSSmD65C7   0x7C9e161ebe55000a3220F972058Fb83273653a6e 1500000 100 f1250e7294533876c979f13499ec3c6c7ace9e57227f1899a7cd0c16ce872b0a https://rpc2.sepolia.org 
