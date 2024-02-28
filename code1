@@ -59,7 +59,6 @@ solana config set --url https://testnet.dev2.eclipsenetwork.xyz
 
 git clone https://github.com/solana-labs/example-helloworld
 
-
 cd example-helloworld 
 
 
