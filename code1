@@ -69,7 +69,6 @@ solana program deploy dist/program/helloworld.so
 
 npm run start
 
-
 https://forms.gle/yJfFABQDPmpvgzAf7
 
 همچنین میتونین ایدی پروگرامو در اکسپلورر سرچ کنین تا از صحت انجام دیپلوی کانترکت مطمین شوید
