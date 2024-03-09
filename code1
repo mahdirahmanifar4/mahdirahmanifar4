@@ -54,7 +54,6 @@ node deposit.js CgHRY3xHtwgvciGsAzBXSugiCSEbkqEuG5UWSSmD65C7   0x7C9e161ebe55000
 
 solana config set --url https://testnet.dev2.eclipsenetwork.xyz
 
-
 git clone https://github.com/solana-labs/example-helloworld
 
 cd example-helloworld 
