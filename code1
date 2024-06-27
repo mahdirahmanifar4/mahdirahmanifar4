@@ -4,8 +4,7 @@ sudo apt install np
 npm install -g yarn 
 
 apt install cargo
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | base
-
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bas
 source ~/.bashrc
 
 nvm install node
